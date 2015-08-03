@@ -1,0 +1,15 @@
+{
+    "name": "ig-api",
+    "version": "0.1.0",
+    "dependencies": {
+        "q": "*",
+        "request": "*"
+    },
+    "main": "index.js",
+    "licenses": [
+        {
+            "type": "AGPL3",
+            "url": "http://github.com/BluePeppers/LICENSE"
+        }
+    ]
+}
